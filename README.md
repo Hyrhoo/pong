@@ -2,7 +2,7 @@
 
 > Ce programme utilise la bibliothèque graphique **pygame** qu'il faut installer préalablement.
 
-Ce projet était un défi en compétition avec un ami. Le but étant de coder un pong en un minimum de ligne en python. Ici j'y suis arrivé en 4 lignes seulement.
+Ce projet était un défi en compétition avec un ami. Le but étant de coder un Pong en un minimum de ligne en python. Ici j'y suis arrivé en 4 lignes seulement.
 
 Comandes :
 - Joueur 1: `Z` pour monter et `S` pour descendre.
